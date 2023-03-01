@@ -1,8 +1,7 @@
 # book-gpt
 
 Upload a book, ask me anything about it.
-
-https://book-gpt-dtxy-git-master-ashokpds15.vercel.app/
+https://book-gpt-dtxy.vercel.app/
 
 ## Development
 
