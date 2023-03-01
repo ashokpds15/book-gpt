@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/fraserxu",
-    github: "https://github.com/fraserxu/book-gpt",
+    twitter: "https://twitter.com/ashokpds",
+    github: "https://github.com/ashokpds15/book-gpt",
   },
 }
