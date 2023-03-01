@@ -2,7 +2,7 @@
 
 Upload a book, ask me anything about it.
 
-https://book-gpt.vercel.app
+https://book-gpt-dtxy-git-master-ashokpds15.vercel.app/
 
 ## Development
 
